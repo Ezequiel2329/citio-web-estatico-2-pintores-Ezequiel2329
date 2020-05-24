@@ -1,0 +1,223 @@
+#index{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://i.pinimg.com/originals/1d/7c/87/1d7c87d01a2826ce0ef36764bc34b1b3.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#tamañoImg{
+    width: 300px;
+    height: 400px;
+}
+#div1{
+    float: left;
+}
+#div2{
+    float: right;
+}
+@font-face{
+    font-family: 'Titulo';
+    src: url(fuente.ttf);
+}
+#titulo{
+    text-align: center;
+    font-family: 'Titulo';
+    font-size: 60px;
+    background-color: rgba(255, 255, 255, 0.342);
+}
+#formaRef{
+    font-family: 'NombresPin';
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+@font-face{
+    font-family: 'NombresPin';
+    src: url(FuenteTitulos.ttf);
+}
+#text{
+    background-color: rgba(41, 41, 41, 0.603);
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+#p1{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://i.pinimg.com/originals/14/1e/60/141e60d5c88c9c2809dc2d0b0f82d3fb.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+#titulop1{
+    font-family: 'Titulo';
+    font-size: 50px;
+    text-align: center;
+}
+#Bio{
+    font-family: 'NombresPin';
+    font-size: 30px;
+}
+#contenidoBio{
+    font-family: 'Calibri';
+    font-size: 17px;
+}
+#contenidoPin{
+    font-family: 'Calibri';
+    font-size: 17px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.452);
+
+}
+#p1c1{
+    width: 300px;
+    height: 370px;
+    margin-left: 100px;
+}
+#p1c2{
+    width: 500px;
+    height: 370px;
+}
+#p1c3{
+    width: 500px;
+    height: 380px;
+}
+#p1c4{
+    width: 500px;
+    height: 400px;
+}
+#p1c5{
+    width: 300;
+    height: 380px;
+    margin-left: 110px;
+}
+#div1pin{
+    float: left;
+}
+#div2pin{
+    float: right;
+}
+#formaRefPin{
+    font-family: 'NombresPin';
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-align: right;
+}
+
+
+#p2{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://www.sincable.mx/wp-content/uploads/2019/10/42421142_l-scaled.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+#p2c1{
+    width: 300px;
+    height: 400px;
+    margin-left: 100px;
+}
+#p2c2{
+    width: 500px;
+    height: 320px;
+}
+#p2c3{
+    width: 300px;
+    height: 430px;
+    margin-left: 60px;
+}
+#p2c4{
+    width: 300px;
+    height: 350px;
+    margin-left: 60px;
+}
+#p2c5{
+    width: 300px;
+    height: 550px;
+    margin-left: 60px;
+}
+#fondop2{
+    background-color: rgba(0, 0, 0, 0.356);
+}
+
+
+
+#p3{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url('https://www.loracorp.com/wallpapers/archivos/Wallpapers%20-%20Lora%20Corp%20-%20Fondo%20de%20pantalla%20-%20HD%20-%20(628).jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+#p3c1{
+    width: 500px;
+    height: 400px;
+}
+#p3c2{
+    width: 500px;
+    height: 550px;
+}
+#p3c3{
+    width: 300px;
+    height: 450px;
+    margin-left: 20px;
+}
+#p3c4{
+    width: 500px;
+    height: 400px;
+}
+#p3c5{
+    width: 300px;
+    height: 550px;
+    margin-left: 20px;
+}
+
+
+
+#p4{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://image.freepik.com/foto-gratis/fondos-arte-abstracto_35048-787.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+.fondoBio{
+    background-color: rgba(0, 0, 0, 0.322);
+}
+#p4c1{
+    width: 350px;
+    height: 600px;
+}
+#p4c2{
+    width: 350px;
+    height: 500px;
+}
+#p4c3{
+    width: 400px;
+    height: 600px;
+}
+#p4c4{
+    width: 400px;
+    height: 650px;
+}
+#p4c5{
+    width: 400px;
+    height: 300px;
+}
